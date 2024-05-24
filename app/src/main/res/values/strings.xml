@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinProject02</string>
+    <string name="odometer">Odometer: %1$s</string>
+    <string name="average_speed">Average Speed: %1$s</string>
 </resources>
